@@ -1,0 +1,10 @@
+node_modules
+dist
+
+# Jest
+coverage/
+
+# Playwright
+reports/
+playwright-report/
+test-results/

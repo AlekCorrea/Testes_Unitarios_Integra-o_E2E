@@ -1,0 +1,17 @@
+body {
+  font-family: Arial;
+  max-width: 600px;
+  margin: auto;
+  padding: 40px;
+  background-color: yellow;
+}
+
+input,
+button {
+  padding: 10px;
+  font-size: 16px;
+}
+
+li {
+  margin: 8px 0;
+}
